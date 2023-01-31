@@ -1,2 +1,4 @@
 # SARSA
-A.I buddy
+Go on jupyter
+run all cells
+Talk away!
